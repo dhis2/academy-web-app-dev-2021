@@ -8,7 +8,10 @@ A [getting started guide](./resources/GET_STARTED.md) is also available.
 
 ## Structure
 
-- [**Workshop 1 - The Basics**](./workshop-1) - _March 17 - 18_     
+### Workshop 1 - The Basics
+- [**Workshop Agenda**](./workshop-1) - _March 17 - 18_     
 - [**Project 1**](./projects/project1) - _due May 1_
-- [**Workshop 2 - Advanced**](./workshop-2) - _May 4-7_
+
+### Workshop 2 - Advanced
+- [**Workshop Agenda**](./workshop-2) - _May 4-7_
 - [**Project 2**](./project2/project2) - _due mid-June_
