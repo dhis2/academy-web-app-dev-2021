@@ -1,3 +1,6 @@
-# Workshop 1 - The Basics
+# Workshop 1 - The Basics of DHIS2 Application Development
 
-## Agenda 
+## Agenda
+
+_March 17 - 18, 2021_
+

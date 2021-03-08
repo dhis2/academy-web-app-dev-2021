@@ -14,4 +14,4 @@ A [getting started guide](./resources/GET_STARTED.md) is also available.
 
 ### Workshop 2 - Advanced
 - [**Workshop Agenda**](./workshop-2) - _May 4-7_
-- [**Project 2**](./project2/project2) - _due mid-June_
+- [**Project 2**](./projects/project2) - _due mid-June_

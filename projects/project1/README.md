@@ -1,13 +1,15 @@
 # Project 1: Build a modern DHIS2 app
 
 Project 1 is _not_ a mandatory project assignment for
-students who want to receive a certification. Feedback will still be provided by the core team and  facilitators.  
+students who want to receive a certification. Feedback will still be provided by the core team and facilitators.  
 
 This project will focus on what you've learned during Workshop 1 and you'll take that knowledge to build a DHIS2 application from scratch. 🎊
 
 ## Description
 
 In this project you are going to be building a simple DHIS2 application. You will initialize your app with the DHIS2 Application Platform and use the `@dhis2/ui` components following the DHIS2 design system. 
+
+You will also have the chance to apply what your learned about the DHIS2 Application Runtime (by defining queries and retrieving data using the DHIS2 API). **Optional:** You may use data mutations as well to send data to a DHIS2 instance. 
 
 You are free to choose the purpose of your application in this project. We only require that the requirements below be followed.
 
@@ -26,7 +28,13 @@ You are free to choose the purpose of your application in this project. We only 
   [colors](https://github.com/dhis2/design-system/blob/master/principles/color.md)
   and
   [typography](https://github.com/dhis2/design-system/blob/master/principles/typography.md)
-  
+- App **must** contain at least one component that uses a [data
+  query](https://runtime.dhis2.nu/#/hooks/useDataQuery). _Optional_: at least
+  one component that uses a
+  [mutation](https://runtime.dhis2.nu/#/hooks/useDataMutation) from
+  the [DHIS2 Application
+  Runtime](https://runtime.dhis2.nu/#/getting-started)
+
 ## Deadlines
 | Start date   | End date       | Duration |
 |--------------|----------------|-----------
