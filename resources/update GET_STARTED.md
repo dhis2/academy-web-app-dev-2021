@@ -4,13 +4,13 @@ This guide will help you get started with GitHub Classroom and will show you how
 
 ## GitHub Classroom: Accept assignment
 
-When you receive the invitation link, you'll see the following: 
+When you receive the invitation link, you will see the following: 
 
 ![accept-invitation](./assets/accept-invitation.png)
 
 Once you accept the invitation, a GitHub repository will be created for you. **Refresh** the page to see your repo. Note that your username will be automatically added as shown below: 
 
-![accept-invitation](./assets/repo-student.png)
+![accept-invitation](./assets/repo-student-name.png)
 
 Next, let's setup your local environment. 
 
@@ -41,19 +41,18 @@ The `git clone` command copies your repository from GitHub to your local compute
 * First, navigate to the directory. For example `cd 02-ui-library` and then `cd 02-ui-library-tasks` 
 
 * Run the following commands:
-
- - Run `yarn` to fetch all packages and dependencies  
- - Then `yarn start` - This will run the app in the development mode.
+  - Run `yarn` to fetch all packages and dependencies  
+  - Then `yarn start` - This will run the app in the development mode.
 
 * From the browser, go to [http://localhost:3000](http://localhost:3000). You will see the following page: 
 
 ![](./assets/new-app-login-page.png)
 
 * Before you sign in, you need to log in to the DHIS2 instance which will be your **server**: 
- - Go to: https://academy.demos.dhis2.org/web-app/ 
- - You will see this page:
+  - Go to: https://academy.demos.dhis2.org/web-app/ 
+  - You will see this page:
  ![](./assets/image-of-login.png)
- - Sign in as username: `admin` and password: `district`
+  - Sign in as username: `admin` and password: `district`
 
 * Finally, go back to [http://localhost:3000](http://localhost:3000) and enter the following:
 
@@ -73,7 +72,7 @@ password: district
 
 Before you start working on the assignments, create a branch in your repository for each task. _Make sure to name your branch as the task name._
 
-* You can[create a branch](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-and-deleting-branches-within-your-repository#creating-a-branch) on your GitHub repository 
+* You can [create a branch](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-and-deleting-branches-within-your-repository#creating-a-branch) on your GitHub repository 
 * Or from your terminal: 
 
 ```
@@ -93,9 +92,8 @@ git push
 ```
 
 * **Create a Pull Request:**
-
- - Once you push the changes to your repository, the **Compare & pull request** green button will appear on GitHub. Click and follow the instructions. Add the name of the assignment `02-ui-library` as the title of your pull request and leave a comment
- - Open a pull request by clicking the `Create pull request` green button
+  - Once you push the changes to your repository, the **Compare & pull request** green button will appear on GitHub. Click and follow the instructions. Add the name of the assignment `02-ui-library` as the title of your pull request and leave a comment
+  - Open a pull request by clicking the `Create pull request` green button
 
 * Finally, instructors will be able to see your submission and provide feedback from the GitHub Classroom ✍🏽
 
