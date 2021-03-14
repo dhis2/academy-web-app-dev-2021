@@ -83,7 +83,7 @@ password: district
 
 ![](./assets/new-app-login-success.png)
 
-> **NOTE**: If you're getting some errors and can't connect to the server or you're unable to sign in, please check these possible [solutions](./DEBUGGING.md)
+> **NOTE**: If you're getting some errors and can't connect to the server or you're unable to sign in, please check these possible [solutions](./DEBUG.md)
 
 ## How to submit assignments 
 
