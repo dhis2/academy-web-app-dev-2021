@@ -1,6 +1,6 @@
 # Initial Environment Setup
 
-This task will help you get familiar with the DHIS2 CLI. You will also learn how to initialize a new DHIS2 application and you will follow these same steps before you start building your [Project 1](../../projects/project1/README.md))  
+This task will help you get familiar with the DHIS2 CLI. You will also learn how to initialize a new DHIS2 application and you will follow these same steps before you start building your [Project 1](../../projects/project1/README.md)
 
 ## Pre-requisites
 
@@ -18,7 +18,7 @@ d2 help
  
 **Note:** Before you initialize your app, please make sure that you do the following:
 
-1. [Create a branch](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-and-deleting-branches-within-your-repository#creating-a-branch) in your repository for this task and name it 👉 `01-setup-environment`. 
+1. [Create a branch](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-and-deleting-branches-within-your-repository#creating-a-branch) in your repository for this task and name it 👉 `01-setup-environment` 
 > Make sure that you're working on this branch. For more details, check the [get started](../../resources/GET_STARTED.md#how-to-submit-assignments) guide on working and submitting assignments
 
 2. Check that you're in the correct working directory:
@@ -30,7 +30,9 @@ cd workshop-1
 cd 01-environment-setup
 ```
 
-Once you're in the `01-environment-setup`, you're now ready to create a new DHIS2 app! ✨
+Now that you're in the `01-environment-setup` directory, you're ready to create a new DHIS2 app! ✨
+
+### Create `my-app`
 
 We'll use the [d2-app-scripts init command](https://platform.dhis2.nu/#/scripts/init) to **create a new DHIS2 app**:
 
