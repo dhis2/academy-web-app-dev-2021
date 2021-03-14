@@ -38,11 +38,28 @@ The `git clone` command copies your repository from GitHub to your local compute
 
 **Note:** Most directories like the `02-ui-library` and the `03-app-runtime` (within `workshop-1`) will contain basic boilerplate code for you to get started with. Follow these steps to setup your working directory: 
 
-* First, navigate to the directory. For example `cd 02-ui-library` and then `cd 02-ui-library-tasks` 
+* First, navigate to the directory:
 
-* Run the following commands:
-  - Run `yarn` to fetch all packages and dependencies  
-  - Then `yarn start` - This will run the app in the development mode.
+```sh
+cd 02-ui-library
+cd 02-ui-library-task-template
+```
+
+* Run `yarn` to fetch all packages and dependencies.
+
+```sh
+yarn 
+```
+
+You are now ready to start your application locally! 
+
+### Start your DHIS2 application locally 
+
+* Run `yarn start` - This will run the app in the development mode.
+
+```sh
+yarn start 
+```
 
 * From the browser, go to [http://localhost:3000](http://localhost:3000). You will see the following page: 
 
@@ -51,7 +68,7 @@ The `git clone` command copies your repository from GitHub to your local compute
 * Before you sign in, you need to log in to the DHIS2 instance which will be your **server**: 
   - Go to: https://academy.demos.dhis2.org/web-app/ 
   - You will see this page:
- ![](./assets/image-of-login.png)
+![](./assets/image-of-login.png)
   - Sign in as username: `admin` and password: `district`
 
 * Finally, go back to [http://localhost:3000](http://localhost:3000) and enter the following:
