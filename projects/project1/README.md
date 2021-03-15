@@ -1,9 +1,9 @@
 # Project 1: Build a modern DHIS2 app
 
-Project 1 is _not_ a mandatory project assignment for
-students who want to receive a certification. Feedback will still be provided by the core team and facilitators.  
+This project will focus on what you've learned during **Workshop 1: The Basics of DHIS2 Application Development** and you will take that knowledge to build a simple application from scratch. 🎊
 
-This project will focus on what you've learned during Workshop 1 and you'll take that knowledge to build a DHIS2 application from scratch. 🎊
+**Note:** If you're participating in **Workshop 2: Advanced**, you will be expanding on this project to build Project 2. <br>
+Project 1 is therefore a requirement for students who want to receive a certification after completing Workshop2 and both projects. <br> However, this assignment is not mandatory if you're only participating in **Workshop 1** but we highly encourage you to submit your work to GitHub Classroom and get feedback from our instructors. 
 
 ## Description
 
@@ -42,6 +42,8 @@ You are free to choose the purpose of your application in this project. We only 
 
 ## Submission details 
 
-<!-- TODO - ADD INFO -->
-GitHub Classroom (?)
-  
+Feel free to create a new directory in your repository for your project (you can also work on the existing `project1` directory).  
+Please check these [instructions](../../resources/GET_STARTED.md#working-on-assignments) for more information about submitting your assignment to Github Classroom.
+
+We look forward to seeing your project! 😬 
+ 
