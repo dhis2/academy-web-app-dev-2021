@@ -19,7 +19,7 @@ d2 help
 **Note:** Before you initialize your app, please make sure that you do the following:
 
 1. [Create a branch](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-and-deleting-branches-within-your-repository#creating-a-branch) in your repository for this task and name it 👉 `01-setup-environment` 
-> Make sure that you're working on this branch. For more details, check the [get started](../../resources/GET_STARTED.md#how-to-submit-assignments) guide on working and submitting assignments
+> Make sure that you're working on this branch. For more details, please check the [get started](../../resources/GET_STARTED.md#how-to-submit-assignments) guide on working and submitting assignments
 
 2. Check that you're in the correct working directory:
 
