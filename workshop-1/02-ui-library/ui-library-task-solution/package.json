@@ -1,5 +1,5 @@
 {
-    "name": "my-app-solution",
+    "name": "ui-library-task-solution",
     "version": "1.0.0",
     "description": "",
     "license": "BSD-3-Clause",
@@ -17,6 +17,9 @@
         "@dhis2/cli-style": "^7.3.0"
     },
     "dependencies": {
-        "@dhis2/app-runtime": "^2.8.0"
+        "@dhis2/app-runtime": "^2.8.0",
+        "@dhis2/prop-types": "^2.0.3",
+        "@dhis2/ui": "^6.5.5",
+        "react-router-dom": "^5.2.0"
     }
 }

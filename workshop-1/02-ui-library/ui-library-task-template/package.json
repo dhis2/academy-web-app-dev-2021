@@ -1,0 +1,25 @@
+{
+  "name": "ui-library-task-template",
+  "version": "1.0.0",
+  "description": "",
+  "license": "BSD-3-Clause",
+  "private": true,
+  "scripts": {
+    "build": "d2-app-scripts build",
+    "start": "d2-app-scripts start",
+    "test": "d2-app-scripts test",
+    "deploy": "d2-app-scripts deploy",
+    "lint": "d2-style js check && d2-style text check",
+        "format": "d2-style js apply && d2-style text apply"
+  },
+  "devDependencies": {
+    "@dhis2/cli-app-scripts": "^5.7.4",
+    "@dhis2/cli-style": "^7.3.0"
+  },
+  "dependencies": {
+    "@dhis2/app-runtime": "^2.8.0",
+    "@dhis2/prop-types": "^2.0.3",
+    "@dhis2/ui": "^6.5.5",
+    "react-router-dom": "^5.2.0"
+  }
+}
