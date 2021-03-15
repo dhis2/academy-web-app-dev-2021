@@ -6,7 +6,7 @@
 - [REST API Query Viewer](https://s3-eu-west-1.amazonaws.com/content.dhis2.org/general/query-viewer.html)
 - [Data Query Playground](https://runtime.dhis2.nu/playground)
 
-## Examples
+## Examples 
 
 Analytics Query (URL parameters)
 
