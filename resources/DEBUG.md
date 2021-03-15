@@ -22,7 +22,7 @@ There are a few things that you could do if you're using Chrome and the problem 
 
 ### SameSite by default cookies flag
 
-Disable the default SameSite Cookie behavior in Chrome by setting the "SameSite by default cookies" flag [chrome://flags/#same-site-by-default-cookies](chrome://flags/#same-site-by-default-cookies) to **Disabled**. 
+Disable the default SameSite Cookie behavior in Chrome by setting the "SameSite by default cookies" flag [chrome://flags/#same-site-by-default-cookies](chrome://flags/#same-site-by-default-cookies) to **Disabled**. You may need to restart your browser to apply the new setting. 
 
 **Note**: this disables legitimate security behaviors in your browser, so proceed with caution! We recommend that you only disable this flag when actively debugging a DHIS2 application. 
 
