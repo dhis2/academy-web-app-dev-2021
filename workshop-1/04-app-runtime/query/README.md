@@ -29,7 +29,7 @@ export const IndicatorsList = () => {
 
 * After you've completed these tasks, your application should look like this:
 
-![](./assets/new-app-login-success.png) 
+![](./assets/indicators.png) 
 
 ### Submit your assignment 
 
