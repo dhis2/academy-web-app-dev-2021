@@ -3,7 +3,7 @@
 In order to get the updates on the course material from the template repository, please run the following commands on your terminal: 
 
 ```
-git remote add template https://github.com/dhis2/academy-web-app-dev-2021
+git remote add template https://github.com/dhis2/academy-web-app-dev-2021.git
 git fetch —all
 git merge template/main  
 ``` 
