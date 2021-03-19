@@ -4,9 +4,16 @@ In order to get the updates on the course material from the template repository,
 
 ```
 git remote add template https://github.com/dhis2/academy-web-app-dev-2021.git
+or
+git remote set-url template git@github.com:dhis2/academy-web-app-dev-2021.git  
+```
+Then:
+
+```
 git fetch —all
-git merge template/main  
-``` 
+git merge template/main 
+```
+
 If you get the following error: 
 
 `fatal: refusing to merge unrelated histories`
