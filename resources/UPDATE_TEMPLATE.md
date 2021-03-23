@@ -26,6 +26,6 @@ If you get merge conflicts, please resolve the conflicts on your code editor.
 
 And then run:
 
-`git push origin master ` 
+`git push origin main ` 
 
 Hopefully you'll get the latest updates on the template repository to your local machine! 
