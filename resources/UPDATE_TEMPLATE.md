@@ -10,7 +10,7 @@ git remote set-url template git@github.com:dhis2/academy-web-app-dev-2021.git
 Then:
 
 ```
-git fetch —all
+git fetch --all
 git merge template/main 
 ```
 
