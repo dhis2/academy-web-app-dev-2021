@@ -1,9 +1,10 @@
 import { useAlert, useDataQuery } from '@dhis2/app-runtime'
-import { AddIndicator } from './AddIndicator';
+import { AddProgram } from './AddProgram';
+import { DeleteProgram } from './DeleteProgram';
 
 const query = {
-    indicators: {
-        resource: 'indicators',
+    programs: {
+        resource: 'programs',
         params: ({ pageSize }) => ({
             order: 'displayName:asc',
             pageSize,
@@ -12,29 +13,30 @@ const query = {
     },
 }
 
-export const IndicatorsList = () => {
+export const ProgramsList = () => {
     const { loading, error, data, refetch } = useDataQuery(query, {
         variables: {
             pageSize: 5
         }
     })
-    const { show } = useAlert('Indicator created!')
+    const { show } = useAlert('Program created!')
 
     return (
         <div>
-            <h1>Indicators List</h1>
+            <h1>Programs</h1>
             {loading && <span>...</span>}
             {error && <span>{`ERROR: ${error.message}`}</span>}
             {data && (
                 <>
                     <ul>
-                        {data.indicators.indicators.map(ind => (
-                            <li key={ind.id}>
-                                {ind.displayName}
+                        {data.programs.programs.map(prog => (
+                            <li key={prog.id} style={{padding: '10px'}}>
+                                {prog.displayName} {" "}
+                                <DeleteProgram id={prog.id} refetch={refetch}>Delete</DeleteProgram>
                             </li>
                         ))}
                     </ul>
-                    <AddIndicator
+                    <AddProgram
                         onCreate={() => {
                             show()
                             refetch()
