@@ -9,13 +9,17 @@ Some handy links:
 
 ## Tasks intructions 
 
-There are three simple tasks to be completed in the `exercises` folder. 
+1. Please to the [CodeSandox link](https://codesandbox.io/s/thirsty-murdock-5sxk6?file=/README.md)
+2. Once you've opened the CodeSandbox link, please remember to **fork the project** before you can edit it.
+3. Once you get to the sign in page, you will need to enter the following:
 
-The comments that are important are the ones containing `@TODO`. 
-
-The tasks can be performed directly through the CodeSandox link: [ADD LINK]
-[ADD CODESANBOX INSTRUCTIONS]
-
+```
+server: https://academy.demos.dhis2.org/web-app/
+username: admin
+password: district
+```
+5. There are three simple tasks to be completed. The comments that are important are the ones containing `@TODO` in `ProgramsList.js` and `DeleteProgram.js` 
+6. After you've completed these tasks you can share the link to your solution in the `#academy-2021-web` channel on Slack or send a DM directly to one of the facilitators if you want feedback
 
 ### TASK 1 - Using Dynamic queries and variables 
 
