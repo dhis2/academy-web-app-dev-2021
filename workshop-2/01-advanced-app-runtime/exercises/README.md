@@ -1,45 +1,20 @@
-This project was bootstrapped with [DHIS2 Application Platform](https://github.com/dhis2/app-platform).
+# TASKS INSTRUCTIONS
 
-## Available Scripts
+### TASK 1 - Using Dynamic queries and variables 
 
-In the project directory, you can run:
+In this task you will convert a static query into a dynamic one. You will be working in the `ProgramsList.js` component (check first comments `@TODO-1`)
 
-### `yarn start`
+### TASK 2 - Define a dynamic delete mutation  
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Here you will be working mostly in the `DeleteProgram.js` component. Check for comments starting with `@TODO-2`. The goal of this task is to make the Delete button work. 
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+You will implement a delete mutation using dynamic query techniques. 
 
-### `yarn test`
+### TASK 3 - Using `Alerts` 
 
-Launches the test runner and runs all available tests found in `/src`.<br />
+Check the comments in the `ProgramList.js` component starting with `@TODO-3`. 
 
-See the section about [running tests](https://platform.dhis2.nu/#/scripts/test) for more information.
+In this task you will use a simple `useAlert` to show alerts when a program has been created 
 
-### `yarn build`
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.<br />
-A deployable `.zip` file can be found in `build/bundle`!
-
-See the section about [building](https://platform.dhis2.nu/#/scripts/build) for more information.
-
-### `yarn deploy`
-
-Deploys the built app in the `build` folder to a running DHIS2 instance.<br />
-This command will prompt you to enter a server URL as well as the username and password of a DHIS2 user with the App Management authority.<br/>
-You must run `yarn build` before running `yarn deploy`.<br />
-
-See the section about [deploying](https://platform.dhis2.nu/#/scripts/deploy) for more information.
-
-## Learn More
-
-You can learn more about the platform in the [DHIS2 Application Platform Documentation](https://platform.dhis2.nu/).
-
-You can learn more about the runtime in the [DHIS2 Application Runtime Documentation](https://runtime.dhis2.nu/).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
