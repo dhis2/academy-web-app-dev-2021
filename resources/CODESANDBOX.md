@@ -30,5 +30,5 @@ By default the running app will be displayed in a panel within the CodeSandbox I
 - To open the app in a separate window, simply click the button on the top right of the preview window. Fun fact: this window will also auto-reload when you save changes to files.
 - To create more space in the CodeSandbox IDE, you can simply resize the different panels to suite your needs by dragging their edges.
 
-![Open in new window](./assets/open_window.png)
+![Open in new window](./assets/open-window.png)
 
