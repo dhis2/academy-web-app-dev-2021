@@ -9,7 +9,7 @@ Some handy links:
 
 ## Tasks intructions 
 
-1. Please to the [CodeSandox link](https://codesandbox.io/s/reverent-sea-e76wv)
+1. Please go to the [CodeSandox link](https://codesandbox.io/s/reverent-sea-e76wv)
 2. Once you've opened the CodeSandbox link, please remember to **fork the project** before you can edit it.
 3. Once you get to the sign in page, you will need to enter the following:
 
