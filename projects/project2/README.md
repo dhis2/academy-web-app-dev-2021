@@ -27,7 +27,7 @@ You are free to choose the purpose of your application in this project. We only 
 ## Submission details 
 
 1. Join GitHub Classroom through this [link](https://classroom.github.com/a/f4PqjY1W). 
-2. Follow these [instructions](../../resources/GET_STARTED) on how to get started with Github Classroom 
+2. Follow these [instructions](../../resources/GET_STARTED.md) on how to get started with Github Classroom 
 3. Feel free to create your application in this directory `project2`
 4. Submit your project to Github Classroom 
 
