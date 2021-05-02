@@ -10,6 +10,6 @@ Some handy links:
 
 ## Exercises 
 
-Open [the `translations` CodeSandbox]() and follow the instructions in [the README](./translations/README.md)
+Open the **translations** [CodeSandbox link](https://codesandbox.io/s/purple-frog-2vvc7) and follow the instructions in [the README](./translations/README.md)
 
 > **NOTE** : Don't forget to fork the sandbox!
