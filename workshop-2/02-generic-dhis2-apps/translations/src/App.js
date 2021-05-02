@@ -1,5 +1,5 @@
 import React from 'react'
-import { DataQuery } from '@dhis2/app-runtime'
+import { useDataQuery } from '@dhis2/app-runtime'
 /* @TODO-1: Import i18n */
 import classes from './App.module.css'
 
