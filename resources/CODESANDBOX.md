@@ -24,6 +24,12 @@ The panel that holds the terminal window is right at the bottom of the screen. I
 
 ![Terminal window](./assets/terminal_window.png)
 
+<a name="restart-server" href=""></a>
+## Restarting the server
+If you run into any issues, it might be useful to restart the server, or even the entire sandbox. You would need to do this for some exercises as well. To do so, first click on the "Server Control panel" tab on the left and then click on "Restart server" or "Restart sandbox".
+
+![Restart Server](./assets/restart-server.png)
+
 <a name="full-screen-app" href=""></a>
 ## Show the app full-screen
 By default the running app will be displayed in a panel within the CodeSandbox IDE. If you have limited screen dimensions, that might not be a convenient layout for you. An alternative would be to open the running app in separate browser window and reduce the size of the app panel dramatically:
