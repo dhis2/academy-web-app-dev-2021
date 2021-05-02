@@ -1,5 +1,13 @@
 # TASKS INSTRUCTIONS
 
+Once you get to the sign in page, you will need to enter the following:
+
+```
+server: https://academy.demos.dhis2.org/web-app/
+username: admin
+password: district
+```
+
 ### TASK 1 - Using Dynamic queries and variables 
 
 In this task you will convert a static query into a dynamic one. You will be working in the `ProgramsList.js` component (check first comments `@TODO-1`)
