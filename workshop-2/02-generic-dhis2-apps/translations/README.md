@@ -6,6 +6,7 @@ Once you get to the sign in page, you will need to enter the following:
 server: https://academy.demos.dhis2.org/web-app/
 username: admin
 password: district
+```
 
 ### TASK 1 - Import `i18n`
 
