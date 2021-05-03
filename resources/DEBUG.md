@@ -22,11 +22,22 @@ There are a few things that you could do if you're using Chrome and the problem 
 
 ### SameSite by default cookies flag
 
-Disable the default SameSite Cookie behavior in Chrome by setting the "SameSite by default cookies" flag [chrome://flags/#same-site-by-default-cookies](chrome://flags/#same-site-by-default-cookies) to **Disabled**. You may need to restart your browser to apply the new setting. 
+Disable the default SameSite Cookie behavior in Chrome by setting the "SameSite by default cookies" flag [chrome://flags/#same-site-by-default-cookies](chrome://flags/#same-site-by-default-cookies) to **Disabled**. 
+
+**IMPORTANT**: You may need to restart your browser to apply the new setting. 
 
 **Note**: this disables legitimate security behaviors in your browser, so proceed with caution! We recommend that you only disable this flag when actively debugging a DHIS2 application. 
 
 Read this blog to learn more about [SameSite Cookie Policies and DHIS2 Applications](https://developers.dhis2.org/blog/cross-origin-cookies).  
+
+## If you're using Firefox with CodeSandbox
+
+If you're having some issues with CodeSandbox: 
+
+- Please [Restart Sandbox](https://github.com/dhis2/academy-web-app-dev-2021/blob/main/resources/CODESANDBOX.md) using the toolbar on the left, or restart the server 
+- Refresh the browser in the Sandbox
+- Make sure to save the code (with `CTRL + S` or `CMD + S`)
+- Refresh your browser 
 
 ### Disabling cache
 

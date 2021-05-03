@@ -1,5 +1,7 @@
 ## Translations: Task Instructions 
 
+**IMPORTANT**: Please remember to sign-in to your GitHub account and FORK this project before you continue with this exercise  
+
 Once you get to the sign in page, you will need to enter the following:
 
 ```
@@ -7,6 +9,16 @@ server: https://academy.demos.dhis2.org/web-app/
 username: admin
 password: district
 ```
+## If you're having issues connecting to the server
+
+Please check [this link](https://github.com/dhis2/academy-web-app-dev-2021/blob/main/resources/DEBUG.md#if-youre-using-chrome) for troubleshooting tips. 
+
+## If you're having issues with CodeSandbox: 
+
+- Please [Restart Sandbox](https://github.com/dhis2/academy-web-app-dev-2021/blob/main/resources/CODESANDBOX.md) using the toolbar on the left, or restart the server 
+- Refresh the browser in the Sandbox
+- Make sure to save the code (with `CTRL + S` or `CMD + S`)
+- Refresh your browser 
 
 ### TASK 1 - Import `i18n`
 
