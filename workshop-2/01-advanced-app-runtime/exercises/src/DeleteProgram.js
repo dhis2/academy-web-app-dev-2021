@@ -12,13 +12,13 @@ const mutation = {
 export const DeleteProgram = ({  }) => {
     const [mutate, { loading }] = useDataMutation(mutation)
 
-    const onClick = () => {
-        /* @TODO-3: Complete this onClick function to be able to delete the id 
+        /* @TODO-3: Complete and uncomment the onClick function below to be able to delete the id 
                     The .then here is a method in JavaScript which means that 
-                    once the item is succesfully deleted then it will refetch the data 
-        */ 
-        mutate({}).then(refetch) 
-    }
+                    once the item is succesfully deleted then it will refetch the data */ 
+
+    // const onClick = () => {
+    //     mutate({}).then(refetch) 
+    // }
     
 
     return (
@@ -27,9 +27,7 @@ export const DeleteProgram = ({  }) => {
                 small
                 destructive
                 disabled={loading}
-                /* @TODO-3: Pass the onClick function here*/
-                onClick = {} 
-                
+                /* @TODO-3: Add the onClick function here*/
             >
                 Delete
             </Button>
