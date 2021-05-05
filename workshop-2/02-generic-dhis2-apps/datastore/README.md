@@ -23,7 +23,7 @@ Please check [this link](https://github.com/dhis2/academy-web-app-dev-2021/blob/
 
 ## Reference
 
-- Check the [slides](https://drive.google.com/file/d/1LgLE2uEWeKGp8ik3aeV1gMbLvqqQSxxu/view?usp=sharing) for code examples for these 4 tasks
+- Check the [slides](https://docs.google.com/presentation/d/1OHwNn4TABl4dRoTTAAmyDw3GQo41HGgmAZ4MaTzbTmo/edit?usp=sharing) for code examples for these 4 tasks
 - DataStore [API documentation]()
 - App Service Datastore [documentation](https://github.com/dhis2/app-service-datastore) 
 
