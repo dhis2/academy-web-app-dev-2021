@@ -10,6 +10,14 @@ Some handy links:
 
 ## Exercises 
 
+### Translations
+
 Open the **translations** [CodeSandbox link](https://codesandbox.io/s/cool-drake-6vugy) and follow the instructions in [the README](./translations/README.md)
+
+> **NOTE** : Don't forget to fork the sandbox!
+
+### DataStore
+
+Open the **datastore** [CodeSandbox link](https://githubbox.com/dhis2/academy-web-app-dev-2021/tree/main/workshop-2/02-generic-dhis2-apps/datastore) and follow the instructions in [the README](./datastore/README.md)
 
 > **NOTE** : Don't forget to fork the sandbox!
