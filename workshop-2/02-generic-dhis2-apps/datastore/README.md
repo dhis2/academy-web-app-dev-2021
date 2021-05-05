@@ -24,7 +24,7 @@ Please check [this link](https://github.com/dhis2/academy-web-app-dev-2021/blob/
 ## Reference
 
 - Check the [slides](https://docs.google.com/presentation/d/1OHwNn4TABl4dRoTTAAmyDw3GQo41HGgmAZ4MaTzbTmo/edit?usp=sharing) for code examples for these 4 tasks
-- DataStore [API documentation]()
+- DataStore [API documentation](https://docs.dhis2.org/en/develop/using-the-api/dhis-core-version-236/data-store.html)
 - App Service Datastore [documentation](https://github.com/dhis2/app-service-datastore) 
 
 ## TASK 1 - Initialize the DataStoreProvider
