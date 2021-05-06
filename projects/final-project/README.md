@@ -33,7 +33,7 @@ You are free to choose the purpose of your application in this project. We only 
 
 1. Join GitHub Classroom through this [link](https://classroom.github.com/a/f4PqjY1W). 
 2. Follow these [instructions](../../resources/GET_STARTED.md) on how to get started with Github Classroom 
-3. Feel free to create your application in this directory `finalproject`
+3. Feel free to create your application in this directory `final-project`
 4. Submit your project to Github Classroom 
 
 We look forward to seeing your project! 😬 

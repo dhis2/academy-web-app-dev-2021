@@ -22,7 +22,7 @@
 ## Useful Links
 
 - [Full Agenda](https://docs.google.com/document/d/1F8aEJKr7hqbW2ggbw9XZhRYKcDScFXWMLOQ3-borRGg/edit?usp=sharing)
-- [Project details](../projects/project2/README.md)
+- [Final Project details](../projects/final-project/README.md)
 - [Using CodeSandbox](../resources/CODESANDBOX.md)
 - [Server debugging](../resources/DEBUG.md)
 - [Developer Portal - Academy events page](https://developers.dhis2.org/events/developer-academy)
