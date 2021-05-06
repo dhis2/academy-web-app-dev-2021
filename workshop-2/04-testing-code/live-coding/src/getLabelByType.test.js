@@ -25,8 +25,11 @@ export function getLabelByType(instance) {
 }
 
 describe('getLabelByType', () => {
-  it('should return "Premium label" when the type is "top"', () => {})
-  it('should return "Top label" when the type is "mid"', () => {})
-  it('should return "Value label" when the type is "low"', () => {})
+  it('should return "Premium tier" when the type is "top"', () => {})
+
+  it('should return "Top tier" when the type is "mid"', () => {})
+
+  it('should return "Value tier" when the type is "low"', () => {})
+
   it('should return the type itself for any other type', () => {})
 })

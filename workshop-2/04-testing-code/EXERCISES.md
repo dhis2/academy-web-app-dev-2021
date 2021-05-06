@@ -4,7 +4,7 @@ The exercises can all be done within the same code sandbox.
 
 ## Exercise link:
 
-You can find the code sandbox link here: <a href="@TODO" target="_blank">Code Sandbox exercises</a><br />
+You can find the code sandbox link here: <a href="https://codesandbox.io/s/github/dhis2/academy-web-app-dev-2021/tree/main/workshop-2/04-testing-code/unit-tests" target="_blank">Code Sandbox exercises</a><br />
 **Please remember:**
 * to fork the code sandbox so you can send us your unique link with our
   solutions!
@@ -16,7 +16,7 @@ I highly encourage you to try to solve the exercises without the solution
 about the specific documentations that you will need many more times when
 testing your own application's code! In case you really need to know the
 solutions, you can find them here:
-<a href="@TODO" target="_blank">Code Sandbox exercises - Solution</a>
+<a href="https://codesandbox.io/s/github/dhis2/academy-web-app-dev-2021/tree/main/workshop-2/04-testing-code/unit-tests-solution" target="_blank">Code Sandbox exercises - Solution</a>
 
 ## What to do
 

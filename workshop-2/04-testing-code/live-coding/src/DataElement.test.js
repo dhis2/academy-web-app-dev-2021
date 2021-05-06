@@ -2,6 +2,8 @@ import { configure, mount } from "enzyme"
 import Adapter from "enzyme-adapter-react-16"
 import React from 'react'
 
+configure({ adapter: new Adapter() })
+
 const DataElement = ({ loading, error, data }) => {
   if (loading) {
     return (
@@ -42,10 +44,10 @@ const DataElement = ({ loading, error, data }) => {
   )
 }
 
-configure({ adapter: new Adapter() })
-
 describe('DataElement', () => {
   it('should render the loading text', () => {})
+
   it('should render the error message', () => {})
+
   it("should render the data element's data", () => {})
 })
