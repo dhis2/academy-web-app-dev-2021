@@ -1,7 +1,32 @@
-import { getLabelByType } from './getLabelByType'
+/*
+ * @param {Object} instance
+ * @returns {string}
+ */
+export function getLabelByType(instance) {
+  // if instance if not an object
+  // or if the type property is missing
+  if (typeof instance.type === 'undefined') {
+    throw new Error(`No "type" property on instance, instance is of type ${typeof instance}.`)
+  }
 
-// @TODO: Add tests ->
-//   * Make sure the function returns "Premium label" when the type is "top"
-//   * Make sure the function returns "Top label" when the type is "mid"
-//   * Make sure the function returns "Value label" when the type is "low"
-//   * Make sure the function returns the type itself for any other type
+  if (instance.type === 'top') {
+    return 'Premium tier'
+  }
+
+  if (instance.type === 'mid') {
+    return 'Top tier'
+  }
+
+  if (instance.type === 'low') {
+    return 'Value tier'
+  }
+
+  return instance.type
+}
+
+describe('getLabelByType', () => {
+  it('should return "Premium label" when the type is "top"', () => {})
+  it('should return "Top label" when the type is "mid"', () => {})
+  it('should return "Value label" when the type is "low"', () => {})
+  it('should return the type itself for any other type', () => {})
+})
