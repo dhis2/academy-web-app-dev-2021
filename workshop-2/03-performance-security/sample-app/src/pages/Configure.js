@@ -22,8 +22,8 @@ const Configure = () => {
     }
     return <div className={classes.page}>
         <form onSubmit={onSubmit}>
-            <Input value={username} placeholder={'Username'} />
-            <Input value={password} placeholder={'Password'} />
+            <Input value={username} onChange={({ value }) => setUsername(value)} placeholder={'Username'} />
+            <Input value={password} onChange={({ value }) => setPassword(value)} placeholder={'Password'} />
             <Button type="submit">Save</Button>
         </form>
     </div>
