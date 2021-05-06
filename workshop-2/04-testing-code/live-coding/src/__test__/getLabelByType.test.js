@@ -1,4 +1,4 @@
-import { getLabelByType } from './getLabelByType'
+import { getLabelByType } from '../getLabelByType'
 
 // @TODO: Add tests ->
 //   * Make sure the function returns "Premium label" when the type is "top"

@@ -6,7 +6,6 @@
 
 - <a href="https://docs.google.com/presentation/d/1jxcbNI9oSk4H7vIyDQXzjOxPy90PWkjw-UE9Z7_jhfc/edit?usp=sharing" target="_blank">Presentation Slides</a>
 - [Exercises](./EXERCISES.md)
-- [Presentation transcript](./TRANSCRIPT.md)
 - [Live coding sandbox](./@TODO)
 
 **Links to documentation and guides**
