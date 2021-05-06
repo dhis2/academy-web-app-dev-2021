@@ -6,7 +6,6 @@
 
 - <a href="https://docs.google.com/presentation/d/1jxcbNI9oSk4H7vIyDQXzjOxPy90PWkjw-UE9Z7_jhfc/edit?usp=sharing" target="_blank">Presentation Slides</a>
 - [Exercises](./EXERCISES.md)
-- [Live coding sandbox](./@TODO)
 
 **Links to documentation and guides**
 
@@ -17,3 +16,4 @@
 - <a href="https://react-hooks-testing-library.com/" target="_blank">React Hooks Testing Library Docs</a>
 - <a href="https://react-hooks-testing-library.com/usage/advanced-hooks" target="_blank">React Hooks Testing Library Docs - Advanced hooks</a>
 - <a href="https://docs.cypress.io/guides/overview/why-cypress.html#In-a-nutshell" target="_blank">Cypress Docs</a>
+- <a href="https://github.com/dhis2/cli-utils-cypress" target="_blank">DHIS2 Cypress utility</a>
