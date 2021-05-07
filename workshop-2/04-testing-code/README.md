@@ -17,3 +17,4 @@
 - <a href="https://react-hooks-testing-library.com/usage/advanced-hooks" target="_blank">React Hooks Testing Library Docs - Advanced hooks</a>
 - <a href="https://docs.cypress.io/guides/overview/why-cypress.html#In-a-nutshell" target="_blank">Cypress Docs</a>
 - <a href="https://github.com/dhis2/cli-utils-cypress" target="_blank">DHIS2 Cypress utility</a>
+- <a href="https://github.com/dhis2/sms-configuration-app/" target="_blank">Sms Configuration App</a>
