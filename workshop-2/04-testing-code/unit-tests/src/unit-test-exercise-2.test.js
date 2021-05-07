@@ -1,3 +1,4 @@
+/* eslint-disable import/first */
 /*
  * This is the function that will be tested in this file.
  * @param {Object} instance

@@ -1,3 +1,4 @@
+/* eslint-disable import/first */
 /**
  * This needs to be done.
  * Normally this would be done in the src/setupTests.js
