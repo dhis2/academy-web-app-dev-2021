@@ -1,5 +1,7 @@
 # DHIS2 Web App Development Academy 2021
 
+Recordings available on the [Developer Portal](https://developers.dhis2.org/events/developer-academy/#web-app-track)
+
 ## Resources
 
 We've prepared a short list of links to [prerequisite learning material](./resources/PREREQUISITES.md) for students who aren't yet comfortable with HTML, CSS, Javascript, or React development.
