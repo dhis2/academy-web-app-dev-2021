@@ -1,6 +1,6 @@
 # DHIS2 Web App Development Academy 2021
 
-**Session Recordings** for Workshops 1 and 2 are available on the [DHIS2 Developer Portal](https://developers.dhis2.org/events/developer-academy/#web-app-track). 
+**Session Recordings** for Workshops 1 and 2 are available on the [DHIS2 Developer Portal](https://developers.dhis2.org/events/academy-workshops-2021). 
 
 ## Resources
 
