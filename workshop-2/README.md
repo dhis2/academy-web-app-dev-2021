@@ -2,7 +2,7 @@
 
 **Objective**: _Build and publish robust, professional, and maintainable generic DHIS2 applications using the DHIS2 Application Platform_
 
-**Session Recordings** are available on the [DHIS2 Developer Portal](https://developers.dhis2.org/events/developer-academy/#web-app-track). 
+**Session Recordings** are available on the [DHIS2 Developer Portal](https://developers.dhis2.org/events/academy-workshops-2021). 
 
 **May 4-7, 2021** - 10:00-13:00 CEST daily
 
