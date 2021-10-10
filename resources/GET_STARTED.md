@@ -42,7 +42,7 @@ The `git clone` command copies your repository from GitHub to your local compute
 
 ```sh
 cd 02-ui-library
-cd 02-ui-library-task-template
+cd ui-library-task-template
 ```
 
 * Run `yarn` to fetch all packages and dependencies.
