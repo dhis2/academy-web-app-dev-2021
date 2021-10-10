@@ -55,10 +55,10 @@ You are now ready to start your application locally!
 
 ### Start your DHIS2 application locally 
 
-* Run `yarn start` - This will run the app in the development mode.
+* Run `yarn run start` - This will run the app in the development mode.
 
 ```sh
-yarn start 
+yarn run start 
 ```
 
 * From the browser, go to [http://localhost:3000](http://localhost:3000). You will see the following page: 
