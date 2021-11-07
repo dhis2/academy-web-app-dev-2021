@@ -23,7 +23,7 @@ export const IndicatorsList = () => {
     return <ul className={classes.list}>
         {data.results.indicators.map(indicator =>
             <li>
-                <strong>{indicator.name}</strong><br/>
+                <strong>{indicator.displayName}</strong><br/>
                 <span>{indicator.description}</span>
             </li>
         )}
